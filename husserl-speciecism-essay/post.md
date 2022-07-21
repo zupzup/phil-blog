@@ -77,7 +77,9 @@ The same is true for *any evidence* and Husserl argues, the same principle can b
 This interaction, a possibility to *reach into* another monad, another ego, is, as Husserl mentions in (Hua I:157) *irreal*. Monads themselves are inherently separated from each other, but there is a possibility of intentionally reaching other monads and hence interacting with them. Husserl describes this in (Hua I:157) as "Something that exists is in intentional communion with something else that exists.". The community of monads is constituted in each monad. This equal community of monads opens up perspectives to the world in the form of communal experience and a reciprocity of experience between subjects can take place.
 At this point, Husserl also states, that this community of monads is not limited to humans, but rather that
 
+<center>
 "On the contrary (and this carries over to the sociality of *brute animals* [my emphasis]), in the sense of a *community of men* and in that of *man* - who, even as solitary, has the sense: member of a community - there is implicit a *mutual being for one another*, which entails an *Objectivating equalization* of my existence with that of all others - consequently: I or anyone else, as a man among other men." (Hua I:157-158)
+</center>
 
 This suggests an equality of members, human and non-human, within the monadic community, which might be good point to latch on an argument against speciesism. Further, Husserl states in (Hua I:158), that "[A] Nature that includes an open plurality of men (conceived more generally: *animalia* [my emphasis]), distributed one knows not how in infinite space, as subjects of possible intercommunion."
 
@@ -102,7 +104,9 @@ As mentioned above, intersubjectivity is a fundamental concept for Husserl and o
 
 Levinas, of course, went way further than this. Rejecting Husserls concept of empathy as too limited (Flatscher, 2013:203-204) and attempting to establish ethics as first philosophy. In any case, Levinas argued that ethics necessarily needs to be grounded in intersubjectivity: 
 
+<center>
 "As Levinas argues, when ethics goes in search of its existential ground, before any consideration of utility, virtue, or duty, it discovers the intersubjective enactment of responsibility, which resists being integrated into accounts in which the other is a universal other to whom it is my duty, for example, to act ethically or in the hope of increasing the happiness of the collectivity." (Bergo, 2019)
+</center>
 
 While Levinas seems to be concerned first and foremost with human intersubjectivity, his arguments regarding the grounding of ethics in intersubjectivity do not seem to exclude the possibility of non-human animals to be part of the intersubjective collective, as they are for Husserl.
 
